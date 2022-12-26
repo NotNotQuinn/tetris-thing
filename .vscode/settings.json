@@ -1,0 +1,15 @@
+{
+	"files.exclude": {
+		// general:
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		// greenfoot specific:
+		"**/project.greenfoot": true,
+		"**/*.class": true,
+		"**/*.ctxt": true
+	}
+}
